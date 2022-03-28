@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edd
+- 👋 Hi, I’m Edd
 - 👀 I’m interested in coding with python and working with Power BI.
 - 🌱 I’m currently learning R.
 
